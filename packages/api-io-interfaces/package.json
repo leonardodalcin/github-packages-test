@@ -1,0 +1,14 @@
+{
+  "name": "@leonardodalcin/api-io-interfaces",
+  "version": "0.0.1",
+  "main": "index.ts",
+  "repository": "https://github.com/oiwarren/api_pt/packages/api-io-interfaces.git",
+  "description": "API IO interfaces",
+  "dependencies": {},
+  "devDependencies": {
+    "typescript": "^3.7.2"
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/"
+  }
+}
