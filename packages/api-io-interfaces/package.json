@@ -1,6 +1,5 @@
 {
-  "name": "@oiwarren/api-io-interfaces",
-  "private": true,
+  "name": "@leonardodalcin/api-io-interfaces",
   "version": "0.0.1",
   "main": "index.ts",
   "repository": "https://github.com/oiwarren/api_pt/packages/api-io-interfaces.git",
